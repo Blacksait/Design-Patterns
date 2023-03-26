@@ -1,0 +1,6 @@
+https://tyapk.ru/blog/post/dependency-injection-and-service-container
+https://www.kobzarev.com/programming/di/
+https://www.youtube.com/watch?v=r8_Bpx2cZSE
+
+Inversion of Control
+https://www.youtube.com/watch?v=c0pxYhkXLAU

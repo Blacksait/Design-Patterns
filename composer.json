@@ -1,0 +1,27 @@
+{
+    "name": "composer/composer",
+    "description": "a",
+    "autoload": {
+        "psr-4": {
+            "PropertyContainer\\": "PropertyContainer/",
+            "Delegation\\": "Delegation/",
+            "FactoryMethod\\": "FactoryMethod/",
+            "SimpleFactory\\": "SimpleFactory/",
+            "StaticFactory\\": "StaticFactory/",
+            "AbstractFactory\\": "AbstractFactory/",
+            "Multiton\\": "Multiton/",
+            "Builder\\": "Builder/",
+            "Prototype\\": "Prototype/",
+            "Adapter\\": "Adapter/",
+            "Facade\\": "Facade/",
+            "DTO\\": "DTO/",
+            "Decorator\\": "Decorator",
+            "Proxy\\": "Proxy",
+            "EventChanel\\": "EventChanel",
+            "Observer\\": "Observer",
+            "PubSub\\": "PubSub",
+            "BD\\": "BD"
+        }
+    },
+    "require": {}
+}
